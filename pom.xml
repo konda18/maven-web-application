@@ -95,7 +95,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.167.17:8081/repository/kkr-maven-snapshot</url>
+	      <url>http://13.233.167.17:8081/repository/kkr-maven-</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
